@@ -1,0 +1,6 @@
+<launch>
+	<node pkg="PRADIPTA_BORA" name="name" type="name_publisher.py" />
+	<node pkg="PRADIPTA_BORA" name="number" type="num_publisher.py" />
+
+</launch>
+	

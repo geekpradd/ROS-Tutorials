@@ -1,0 +1,3 @@
+<launch>
+	<node pkg="PRADIPTA_BORA" name="subscriber" type="subscriber.py" />
+</launch>

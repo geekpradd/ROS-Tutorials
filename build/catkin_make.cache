@@ -1,0 +1,2 @@
+PRADIPTA_BORA:tutorial
+-DCATKIN_DEVEL_PREFIX=/home/geekpradd/catkin_ws/devel -DCMAKE_INSTALL_PREFIX=/home/geekpradd/catkin_ws/install -G Unix Makefiles
